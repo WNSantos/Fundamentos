@@ -1,0 +1,58 @@
+*{
+            border: 300px;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: rgb(139, 123, 122);
+        }
+.primeiro-titulo{
+    font-size:xx-large;
+    color:brown;
+    padding: 0%;
+    text-align: center;
+}
+
+.segundo-titulo{
+    font-size:xx-large;
+    color:black;
+    padding: 0%;
+    text-align: center;
+}
+.terceiro-titulo{
+    font-size:xx-large;
+    color:azure;
+    padding: 0%;
+    text-align: center;
+}
+.quarto-titulo{
+    font-size:xx-large;
+    color:blanchedalmond;
+    padding: 0%;
+    text-align: center;
+}
+.quinto-titulo{
+    font-size:xx-large;
+    color:rgb(165, 42, 142);
+    padding: 0%;
+    text-align: center;
+}
+.sexto-titulo{
+    font-size:xx-large;
+    color:rgb(168, 185, 11);
+    padding: 0%;
+    text-align: center;
+}
+.primeiro-titulo{
+    font-size:xx-large;
+    color:brown;
+    padding: 0%;
+    text-align: center;
+}
+.paragrafo{
+    font-size: medium;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: solid 1px;
+    text-align: center;
+    align-items: center;
+
+}
